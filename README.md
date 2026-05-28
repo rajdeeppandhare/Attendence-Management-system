@@ -48,14 +48,7 @@ The **Attendance Management System** is a web-based solution designed to simplif
 
 ---
 
-## 🖼️ Screenshots / Preview
 
-> _You can add screenshots here by uploading images to your repo and linking them below:_
->
-> ![Teacher Dashboard](assets/screenshot-teacher.png)
-> ![Student View](assets/screenshot-student.png)
-
----
 
 ## 📚 Attribution
 
